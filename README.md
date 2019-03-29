@@ -5,8 +5,8 @@ This code is written for McMaster Mechtronics Capstone Project 2017/2018.
 
 The code using following librarlies
 - Basic C and C++ libraries
-- OMP
-- openCV
+- OpenMP
+- openCV Version 3.3.1
 
 The code is operating under the following operating system
 - Window
