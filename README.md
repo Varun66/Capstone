@@ -1,5 +1,5 @@
 # Capstone
-Capstone Project in 2017/2018
+Capstone Project
 
 This code is written for McMaster Mechtronics Capstone Project.
 
