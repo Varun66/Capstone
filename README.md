@@ -1,7 +1,7 @@
 # Capstone
 Capstone Project in 2017/2018
 
-This code is written for McMaster Mechtronics Capstone Project 2017/2018.
+This code is written for McMaster Mechtronics Capstone Project.
 
 The code using following librarlies
 - Basic C and C++ libraries
